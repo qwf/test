@@ -71,7 +71,6 @@ TEMPLATES = [
 WSGI_APPLICATION = 'qwf_test.wsgi.application'
 
 
-s
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
